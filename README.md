@@ -1,4 +1,4 @@
-# lambda4aws.github.io
+# Lambda For Serverless Architecture
 Serverless architecture with AWS Lambda 
 
 # Lambda Architecture
